@@ -18,4 +18,4 @@ MPserver.use(router)
 
 //running the Server(puttting it in listening mode)
 MPserver.listen(PORT,()=>{
-console.log(`media player is working on ${PORT}`);})
+console.log(`server is working on ${PORT}`);})
